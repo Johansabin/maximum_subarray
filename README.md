@@ -1,6 +1,7 @@
 # Máximo Subarreglo: Cúbica, Cuadrática y Kadane
 
 Laboratorio de **Análisis y Diseño de Algoritmos — UNSA**
+Alumno: **Huamani Sabina Johan Diego**
 
 Implementación y comparación experimental de tres soluciones al problema del máximo subarreglo:
 
