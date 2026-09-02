@@ -317,6 +317,7 @@ El experimento muestra cómo el orden de crecimiento determina la escalabilidad 
 ```text
 .
 ├── max_subarray.cpp
+├── captura.png
 └── README.md
 ```
 
